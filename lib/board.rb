@@ -11,3 +11,9 @@ row[2]
 
 # Move X to the middle Position 2, middle
 row[1] = "X"
+
+row[3]
+
+row[4] 
+
+row[5]
